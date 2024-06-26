@@ -20,15 +20,20 @@ This mobile banking application provides a clean, user-friendly interface for us
 
 ## Screenshots
 ![Home Light Mode](./screenshots/home-light.png)
+
 1. **Home Screen dark mode**
    ![WhatsApp Image 2024-06-26 at 01 07 44_759b9306](https://github.com/EdiscoKes/rn-assignment5-11137631/assets/151837632/0e03ba44-fae3-4175-8eb4-3f3bbe17dc52)
 
 2. **Settings dark mode**
- 
+ ![WhatsApp Image 2024-06-26 at 01 07 44_24d97506](https://github.com/EdiscoKes/rn-assignment5-11137631/assets/151837632/8e317251-c057-49f0-b535-c86653546801)
 
 3. **Home screen light mode**
-     ![WhatsApp Image 2024-06-26 at 01 07 44_aae522f8](https://github.com/EdiscoKes/rn-assignment5-11137631/assets/151837632/74fa4994-19e9-407a-8bd0-4822d43f2029)
-4. **Settings light mode**
+   ![WhatsApp Image 2024-06-26 at 01 07 44_1a1e7def](https://github.com/EdiscoKes/rn-assignment5-11137631/assets/151837632/98fdbb8c-93b9-4823-b443-20203b8aea1b)
+
+5. **Settings light mode**
+
+   ![WhatsApp Image 2024-06-26 at 01 07 44_40215699](https://github.com/EdiscoKes/rn-assignment5-11137631/assets/151837632/a95f416b-3d33-46f3-bb36-3810e4c5adda)
+
    
  
 
