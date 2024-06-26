@@ -20,9 +20,19 @@ This mobile banking application provides a clean, user-friendly interface for us
 
 ## Screenshots
 ![Home Light Mode](./screenshots/home-light.png)
-![Home Dark Mode](./screenshots/home-dark.png)
-![Settings Light Mode](./screenshots/settings-light.png)
-![Settings Dark Mode](./screenshots/settings-dark.png)
+1. **Home Screen dark mode**
+   ![WhatsApp Image 2024-06-26 at 01 07 44_759b9306](https://github.com/EdiscoKes/rn-assignment5-11137631/assets/151837632/0e03ba44-fae3-4175-8eb4-3f3bbe17dc52)
+
+2. **Settings dark mode**
+ 
+
+3. **Home screen light mode**
+     ![WhatsApp Image 2024-06-26 at 01 07 44_aae522f8](https://github.com/EdiscoKes/rn-assignment5-11137631/assets/151837632/74fa4994-19e9-407a-8bd0-4822d43f2029)
+4. **Settings light mode**
+   
+ 
+
+
 
 ## How to Run the Application
 1. **Clone the repository**:
